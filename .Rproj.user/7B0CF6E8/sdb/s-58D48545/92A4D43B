@@ -1,0 +1,17 @@
+{
+    "contents" : "#' Square a number\n#' \n#' Takes in any numeric value and squares it.\n#' @param x A numneric value to squared\n#' @return The square of the input\n#' @export\nsquare <- function(x){\n  return(x^2)\n}\n\n#' Cube a number\n#' @param x Number to be cubed\n#' @return The cube of the input\n#' @export\ncube <- function(x){\n  return(x^3)\n}",
+    "created" : 1426889852819.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "514740679",
+    "id" : "92A4D43B",
+    "lastKnownWriteTime" : 1426890424,
+    "path" : "~/myPackage/R/power.R",
+    "project_path" : "R/power.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

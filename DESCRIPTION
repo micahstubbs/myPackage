@@ -1,0 +1,10 @@
+Package: myPackage
+Type: Package
+Title: A package I made
+Version: 0.1
+Date: 2015-03-20
+Author: @micahstubbs <micahstubbs@gmail.com>
+Maintainer: @micahstubbs <micahstubbs@gmail.com>
+Description: This is a sample package
+License: MIT
+LazyData: true
