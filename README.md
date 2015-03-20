@@ -6,7 +6,7 @@
 
 `library(devtools)`
 
-`install_github(micahstubbs/myPackage)`
+`install_github("micahstubbs/myPackage")`
 
 ####example usage
 
